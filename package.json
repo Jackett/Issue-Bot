@@ -1,0 +1,38 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "jackettbot",
+  "version": "1.0.0",
+  "description": "",
+  "author": "github-username <email-address>",
+  "license": "ISC",
+  "repository": "your-repository-name",
+  "scripts": {
+    "start": "probot run ./index.js",
+    "test": "jest && standard"
+  },
+  "dependencies": {
+    "JSONPath": "^0.11.2",
+    "moment": "^2.22.0",
+    "mustache": "^2.3.0",
+    "probot": "^6.1.0",
+    "probot-scheduler": "^1.0.3",
+    "scramjet": "^4.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.18.0",
+    "jest": "^22.4.3",
+    "smee-client": "^1.0.1",
+    "standard": "^11.0.1"
+  },
+  "engines": {
+    "node": "8.9",
+    "npm": "5.6"
+  },
+  "standard": {
+    "env": [
+      "jest"
+    ]
+  }
+}
