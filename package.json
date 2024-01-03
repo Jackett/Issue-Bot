@@ -27,7 +27,7 @@
     "standard": "^11.0.1"
   },
   "engines": {
-    "node": "8.9",
+    "node": "10.24.1",
     "npm": "5.6"
   },
   "standard": {
