@@ -14,11 +14,11 @@
   },
   "dependencies": {
     "JSONPath": "^0.11.2",
-    "moment": "^2.22.0",
-    "mustache": "^2.3.0",
-    "probot": "^6.1.0",
-    "probot-scheduler": "^1.0.3",
-    "scramjet": "^4.4.0"
+    "moment": "^2.30.1",
+    "mustache": "^4.2.0",
+    "probot": "^7.5.1",
+    "probot-scheduler": "^1.2.0",
+    "scramjet": "^4.37.0"
   },
   "devDependencies": {
     "eslint": "^4.18.0",
