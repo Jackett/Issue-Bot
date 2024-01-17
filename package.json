@@ -16,7 +16,7 @@
     "JSONPath": "^0.11.2",
     "moment": "^2.30.1",
     "mustache": "^4.2.0",
-    "probot": "^7.5.1",
+    "probot": "^7.5.3",
     "probot-scheduler": "^1.2.0",
     "scramjet": "^4.37.0"
   },
